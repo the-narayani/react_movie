@@ -23,3 +23,5 @@ function MovieCard({movie}){
     )
 }
 
+export default MovieCard
+//export a component
